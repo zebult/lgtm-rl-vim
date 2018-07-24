@@ -1,6 +1,17 @@
 ## lgtm-rl-vim.vim
 
+## Dependences
 
-## installation
-```vim
-```
+brew install mono
+
+## Usage
+
+:LGTMRL
+
+## License
+
+MIT
+
+## Author
+
+saichi (zebult)
